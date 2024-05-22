@@ -1,0 +1,15 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "./build",
+            "binaryPath": "./build/button_handling.elf",
+            "binaryArgs": []
+        }
+    ],
+    "cortex-debug.armToolchainPath": "/usr/bin",
+    "cortex-debug.openocdPath": "/usr/bin/openocd",
+    "files.associations": {
+        "stm32f3xx_hal_def.h": "c",
+        "stm32f3xx_hal_conf.h": "c"
+    }
+}
